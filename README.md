@@ -5,12 +5,12 @@ Employed statistical models to explore the impact of socioeconomic factors on ca
 This project aims to explore the impact of socioeconomic and environmental factors on cancer incidence and mortality rates across various U.S. states over a decade. By leveraging detailed datasets from the CDC and County Health Rankings, the objective is to provide actionable insights for public health strategies, focusing on disparities in cancer outcomes influenced by socioeconomic conditions.
 
 # Data Sources
-### **CDC’s United States Cancer Statistics (USCS)**:
+### [**CDC’s United States Cancer Statistics (USCS)**:](https://wonder.cdc.gov/controller/datarequest/D189;jsessionid=A0BCF1C198428769EAF82199648F?stage=results&action=toggle&p=O_show_rank&v=true)
 * Includes registry data from NPCR and SEER programs.
 * Covers demographic and tumor characteristics such as age, gender, cancer type, and stage at diagnosis.
 * Data spans from January 1, 2001, to December 31, 2020.
 
-### **County Health Rankings**:
+### [**County Health Rankings**:](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation/national-data-documentation-2010-2022)
 * Compiled by the University of Wisconsin Population Health Institute.
 * Provides information on health outcomes and factors influencing health at the county level, including socioeconomic metrics like income levels, insurance coverage, and lifestyle factors such as smoking rates.
 
