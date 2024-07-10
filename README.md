@@ -57,4 +57,6 @@ The project overview and motivation are summarized in a Word report. The report 
 * Surveillance, Epidemiology, and End Results (SEER) Program
 * University of Wisconsin Population Health Institute
 * Robert Wood Johnson Foundation
+* I would like to express my gratitude to OpenAI's ChatGPT for providing valuable guidance and support throughout this project. The insights and assistance were instrumental in completing the data analysis, visualization, and modeling tasks.
+
 **Feel free to reach out if you have any questions or suggestions!**
