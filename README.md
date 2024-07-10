@@ -1,5 +1,6 @@
 # Cancer-Statistic-Socioeconomic-Feature
 Employed statistical models to explore the impact of socioeconomic factors on cancer incidence and mortality rates across various U.S. states over a decade.
+![Screenshot 2024-07-10 181433](https://github.com/PooryaBehnamie/Cancer-Statistic-Socioeconomic-Feature/assets/169101583/f0c45c5b-6d03-44e5-b3fd-47560294f1f1)
 
 # Project Overview
 This project aims to explore the impact of socioeconomic and environmental factors on cancer incidence and mortality rates across various U.S. states over a decade. By leveraging detailed datasets from the CDC and County Health Rankings, the objective is to provide actionable insights for public health strategies, focusing on disparities in cancer outcomes influenced by socioeconomic conditions.
@@ -14,6 +15,10 @@ This project aims to explore the impact of socioeconomic and environmental facto
 * Compiled by the University of Wisconsin Population Health Institute.
 * Provides information on health outcomes and factors influencing health at the county level, including socioeconomic metrics like income levels, insurance coverage, and lifestyle factors such as smoking rates.
 
+### **GeoJSON File for Map Visualization**:
+The GeoJSON file used for the map visualization in this project was sourced from PublicaMundi's MappingAPI repository. The file contains geographical boundaries that are essential for creating accurate and informative maps.
+
+You can find and download the GeoJSON file from the following link: [PublicaMundi GeoJSON Data](https://github.com/PublicaMundi/MappingAPI/tree/master/data/geojson).
 
 # Methods and Analysis
 
