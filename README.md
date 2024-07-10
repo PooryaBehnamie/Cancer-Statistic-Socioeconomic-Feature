@@ -50,3 +50,11 @@ The analysis underscores the critical need for targeted public health interventi
 
 # Report & Visualizations
 The project overview and motivation are summarized in a Word report. The report includes detailed descriptions of the data cleaning processes, data sources and collection methods, limitations, biases, and ethical considerations. Additionally, a final presentation for this analysis has been created on Tableau Public. Here is the [link](https://public.tableau.com/views/CancerStatisticSocioeconomicFeature/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to the visualizations.
+
+## Acknowledgments
+* Centers for Disease Control and Prevention (CDC)
+* National Program of Cancer Registries (NPCR)
+* Surveillance, Epidemiology, and End Results (SEER) Program
+* University of Wisconsin Population Health Institute
+* Robert Wood Johnson Foundation
+**Feel free to reach out if you have any questions or suggestions!**
